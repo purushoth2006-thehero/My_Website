@@ -2,3 +2,9 @@ div{
      display: inline;
   
 }
+a{
+     color: gray;
+}
+a.hover{
+     color: white;
+}
