@@ -1,10 +1,15 @@
 div{
-     display: inline;
+     display: inline-block;
   
 }
 a{
      color: gray;
 }
-a.hover{
+a:hover{
      color: white;
+     
 }
+.div1{
+    margin-right:60%;
+}
+
